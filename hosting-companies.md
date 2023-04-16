@@ -28,6 +28,7 @@ In alphabetical order:
 * [Hosting4Agency](https://www.hosting4agency.com/news/wp-cli-come-usarlo/)
 * [Host4Geeks](https://host4geeks.com/managed-wordpress-hosting)
 * [Hosterion](https://www.hosterion.com)
+* [HostRiver](https://hostriver.ro/gazduire-wordpress)
 * [HostGalaxy](https://www.hostgalaxy.com)
 * [HostGator](http://www.hostgator.com)
 * [Hostico](https://hostico.ro)
